@@ -15,7 +15,7 @@ export default function App() {
     <header>
       <nav>
         <div className="logo">
-          <h1>ES</h1>
+          <h1>EÐ</h1>
         </div>
         <ul>
           <li className="active">Home</li>
